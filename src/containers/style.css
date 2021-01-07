@@ -1,0 +1,39 @@
+.fstyle{
+    position:absolute;
+    left:40%;
+    top: 25%;
+    
+}
+.textbox{
+    margin: 5px;
+
+}
+.head{
+    
+    
+    padding-bottom:50px ;
+    text-align: center;
+}
+.headings{
+    text-align: center;
+}
+.footer{
+    position: absolute;
+    left: 39%;
+    top: 90%;
+}
+.todolist{
+    position:absolute;
+    left: 40%;
+    top:35%;
+}
+.login{
+    position: absolute;
+    left: 40%;
+    top:25%;
+}
+.button{
+    position: absolute;
+    left: 48.75%;
+    top:40%
+}
